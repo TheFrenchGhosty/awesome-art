@@ -24,7 +24,7 @@ Music Artists: SOON
 
 # Books:
 
-[Book-Writers](Books/Book-Writers.md)
+[Book Writers](Books/Book-Writers.md)
 
 BDs: SOON
 
