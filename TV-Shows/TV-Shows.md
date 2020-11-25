@@ -24,6 +24,8 @@ Baby Looney Tunes (2002)
 
 Back to the Future (1991)
 
+Band of Brothers (2001)
+
 Batman - The Animated Series (1992)
 
 Be Cool, Scooby-Doo! (2015)
@@ -109,6 +111,8 @@ How I Met Your Mother (2005)
 Human Universe (2014)
 
 Kaamelott (2005)
+
+Life (2009)
 
 Life After People (2009)
 
@@ -245,6 +249,8 @@ The Simpsons (1989)
 The Sopranos (1999)
 
 The Twilight Zone (1959)
+
+The Universe (2007)
 
 The Vietnam War (2017)
 
