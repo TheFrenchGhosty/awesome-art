@@ -32,13 +32,13 @@ Comics: SOON
 
 Manga: SOON
 
-# Video games:
+# Video Games:
 
 Video Games: SOON
 
 Indie Studio: SOON
 
-Arcade: SOON
+[Arcade](Video-Games/Arcade.md)
 
 ---
 
