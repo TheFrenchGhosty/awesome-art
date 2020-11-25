@@ -14,7 +14,7 @@ This list is always work in progress, because I discover new things every month.
 
 # TV Shows:
 
-TV Shows: SOON
+[TV Shows](TV-Shows/TV-Shows.md)
 
 [TV Shows Movies](TV-Shows/TV-Shows-Movies.md)
 
