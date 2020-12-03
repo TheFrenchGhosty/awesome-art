@@ -14,6 +14,8 @@ Alfred Hitchcock
 
 Adrei Tarkovsky
 
+André Hunebelle
+
 Ang Lee
 
 Arthur Penn
@@ -78,6 +80,8 @@ George Miller
 
 Georges Méliès
 
+Gérard Oury
+
 Gregg Araki
 
 Guillermo Del Toro
@@ -105,6 +109,8 @@ Isao Takahata
 Jacques Tati
 
 James Cameron
+
+Jean Girault
 
 Jean-Luc Godard
 
