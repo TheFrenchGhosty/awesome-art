@@ -10,6 +10,8 @@ This list is always work in progress, because I discover new things every month.
 
 # Movies:
 
+[Actors](Movies/Actors.md)
+
 [Movie Directors](Movies/Movie-Directors.md)
 
 [Animation Studios](Movies/Animation-Studios.md)
