@@ -10,6 +10,8 @@ Alejandro Jodorowsky
 
 Alex Proyas
 
+Alexandre Astier
+
 Alfred Hitchcock
 
 Adrei Tarkovsky
@@ -203,6 +205,8 @@ Sergei Eisenstein
 Sergio Leone
 
 Sidney Lumet
+
+Simon Astier
 
 Sofia Coppola
 
