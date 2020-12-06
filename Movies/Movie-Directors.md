@@ -34,6 +34,8 @@ Chris Columbus
 
 [Christopher Nolan](https://en.wikipedia.org/wiki/Christopher_Nolan_filmography#Films)
 
+Claude Autant-Lara
+
 Claude Zidi
 
 Clint Eastwood
