@@ -76,6 +76,8 @@ Doctor Who (2005)
 
 Doctor Who Confidential (2005)
 
+Dofus - Aux Trésors de Kérubim (2013)
+
 Dragon Ball (1986)
 
 Dragon Ball GT (1996)
@@ -267,6 +269,8 @@ Torchwood (2006)
 Twin Peaks (1990)
 
 Vinyl (2016)
+
+Wakfu (2008)
 
 We Bare Bears (2015)
 
