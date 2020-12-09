@@ -186,6 +186,8 @@ Star Trek - Discovery (2017)
 
 Star Trek - Enterprise (2001)
 
+Star Trek - Lower Decks (2020)
+
 Star Trek - Picard (2020)
 
 Star Trek - Short Treks (2018)
