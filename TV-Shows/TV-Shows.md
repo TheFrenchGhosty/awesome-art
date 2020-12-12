@@ -112,6 +112,10 @@ How I Met Your Mother (2005)
 
 Human Universe (2014)
 
+Human Planet (2011)
+
+Japan - Earth's Enchanted Islands (2015)
+
 Kaamelott (2005)
 
 Life (2009)
@@ -131,6 +135,8 @@ Malcolm in the Middle (2000)
 Monk (2002)
 
 Mr. Robot (2015)
+
+MythBusters (2003)
 
 Neon Genesis Evangelion (1995)
 
@@ -259,6 +265,8 @@ The Twilight Zone (1959)
 The Universe (2007)
 
 The Vietnam War (2017)
+
+The Walking Dead (2010)
 
 The Wire (2002)
 
