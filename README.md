@@ -4,7 +4,9 @@ A curated list of as much artistic creations (movies/musics/games/books...) that
 
 The point of this project is to curate what's in the lists (IE: not add something because it's popular (example: Marvel Movies/Shows)).
 
-This list is always work in progress, because I discover new things every month. Feel free to contribute if you know something that's worth adding.
+The lists of this project will always be work in progress, because I discover, or remember new things every month.
+
+Feel free to contribute if you know something that's worth adding.
 
 ---
 
