@@ -118,6 +118,8 @@ Japan - Earth's Enchanted Islands (2015)
 
 Kaamelott (2005)
 
+Les Aventures de Tintin (1991)
+
 Life (2009)
 
 Life After People (2009)
@@ -155,6 +157,8 @@ Prison Break (2005)
 Red Dwarf (1988)
 
 Regular Show (2009)
+
+Recess (1997)
 
 Rick and Morty (2013)
 
@@ -277,6 +281,8 @@ Tom & Jerry (1940)
 Torchwood (2006)
 
 Twin Peaks (1990)
+
+Utopia (2013)
 
 Vinyl (2016)
 
