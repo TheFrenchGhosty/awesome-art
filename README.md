@@ -26,7 +26,7 @@ Feel free to contribute if you know something that's worth adding.
 
 # Music:
 
-Music Artists: SOON
+[Music Artists](Music/Music-Artists.md)
 
 # Books:
 
