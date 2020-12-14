@@ -78,6 +78,8 @@ Doctor Who Confidential (2005)
 
 Dofus - Aux Trésors de Kérubim (2013)
 
+Dollhouse (2009)
+
 Dragon Ball (1986)
 
 Dragon Ball GT (1996)
@@ -104,19 +106,27 @@ Futurama (1999)
 
 Game of Thrones (2011)
 
+Gordon Ramsay's 24 Hours to Hell and Back (2018)
+
 Gravity Falls (2012)
 
 Great Barrier Reef with David Attenborough (2015)
 
 How I Met Your Mother (2005)
 
+How the Universe Works (2010)
+
 Human Universe (2014)
 
 Human Planet (2011)
 
+Initial D (1998)
+
 Japan - Earth's Enchanted Islands (2015)
 
 Kaamelott (2005)
+
+Kitchen Nightmares (US) (2007)
 
 Les Aventures de Tintin (1991)
 
@@ -156,6 +166,8 @@ Planet Earth II (2016)
 
 Prison Break (2005)
 
+Ramsay's Kitchen Nightmares (2004)
+
 Red Dwarf (1988)
 
 Regular Show (2009)
@@ -185,6 +197,8 @@ Sherlock (2010)
 Sherlock Holmes (1984)
 
 Sons of Anarchy (2008)
+
+South Park (1997)
 
 Space Dandy (2014)
 
@@ -266,6 +280,8 @@ The Simpsons (1989)
 
 The Sopranos (1999)
 
+The Third Day (2020)
+
 The Twilight Zone (1959)
 
 The Universe (2007)
@@ -279,6 +295,8 @@ The Wire (2002)
 Tiny Toon Adventures (1990)
 
 Tom & Jerry (1940)
+
+Tom and Jerry Tales (2006)
 
 Torchwood (2006)
 
