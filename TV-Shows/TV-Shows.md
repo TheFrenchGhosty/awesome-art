@@ -96,6 +96,8 @@ Family Guy (1999)
 
 Fargo (2014)
 
+Fear the Walking Dead (2015)
+
 Forces of Nature with Brian Cox (2016)
 
 Friends (1994)
