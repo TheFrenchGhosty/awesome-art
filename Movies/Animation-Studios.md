@@ -10,6 +10,8 @@
 
 [Illumination](https://en.wikipedia.org/wiki/Illumination_(company))
 
+[Laika](https://en.wikipedia.org/wiki/Laika_(company)#Filmography)
+
 [Marvel Animation](https://en.wikipedia.org/wiki/Marvel_Animation)
 
 [Sony Pictures Animation](https://en.wikipedia.org/wiki/Sony_Pictures_Animation)
