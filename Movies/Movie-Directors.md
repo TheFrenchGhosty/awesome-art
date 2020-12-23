@@ -10,6 +10,8 @@ Alejandro Jodorowsky
 
 Alex Proyas
 
+Alexander Payne
+
 Alexandre Astier
 
 Alfred Hitchcock
@@ -147,6 +149,8 @@ Kinji Fukasaku
 Lars von Trier
 
 Luc Besson
+
+Lucio Fulci
 
 M. Night Shyamalan
 
