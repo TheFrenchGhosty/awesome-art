@@ -24,6 +24,8 @@ Feel free to contribute if you know something that's worth adding.
 
 [TV Shows Movies](TV-Shows/TV-Shows-Movies.md)
 
+[Web Series](TV-Shows/Web-Series.md)
+
 # Music:
 
 [Music Artists](Music/Music-Artists.md)
