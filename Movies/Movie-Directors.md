@@ -118,6 +118,8 @@ Jacques Tati
 
 James Cameron
 
+Jean Cocteau
+
 Jean Girault
 
 Jean-Luc Godard
@@ -148,11 +150,15 @@ Kinji Fukasaku
 
 Lars von Trier
 
+Leos Carax
+
 Luc Besson
 
 Lucio Fulci
 
 M. Night Shyamalan
+
+Mario Bava
 
 Martin Scorsese
 
@@ -161,6 +167,8 @@ Mathieu Kassovitz
 Mel Gibson
 
 Michael Bay
+
+Michael Curtiz
 
 Michael Mann
 
