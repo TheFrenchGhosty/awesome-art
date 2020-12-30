@@ -172,6 +172,8 @@ Michael Curtiz
 
 Michael Mann
 
+Nagisa Ōshima
+
 Neill Blomkamp
 
 Oliver Stone
@@ -187,6 +189,8 @@ Paul Thomas Anderson
 Paul Verhoeven
 
 Peter Jackson
+
+Peter Watkins
 
 Quentin Dupieux
 
@@ -246,6 +250,8 @@ Tim Burton
 
 Tod Browning
 
+Toshiya Fujita
+
 Tsui Hark
 
 [Wes Anderson](https://en.wikipedia.org/wiki/Wes_Anderson#Feature_films)
@@ -263,3 +269,5 @@ Xavier Dolan
 Yeon Sang-ho
 
 Yuri Norstein
+
+Yves Boisset
