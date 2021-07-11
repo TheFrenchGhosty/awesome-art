@@ -264,6 +264,8 @@ The Amazing World of Gumball (2011)
 
 The Boys (2019)
 
+#The Fairly OddParents (2001)
+
 The Flintstones (1960)
 
 The Haunting (2018)
