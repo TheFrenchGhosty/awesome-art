@@ -34,6 +34,8 @@ Bee and PuppyCat (2014)
 
 Better Call Saul (2015)
 
+Big City Greens (2018)
+
 Black Mirror (2011)
 
 Blue Planet (2001)
@@ -71,6 +73,8 @@ Dexter (2006)
 Dexter's Laboratory (1996)
 
 Disney Animated Shorts (1921)
+
+Disenchantment (2018)
 
 Doctor Who (2005)
 
@@ -126,7 +130,11 @@ Initial D (1998)
 
 Japan - Earth's Enchanted Islands (2015)
 
+#Johnny Bravo (1997)
+
 Kaamelott (2005)
+
+King of the Hill (1997)
 
 Kitchen Nightmares (US) (2007)
 
@@ -177,6 +185,10 @@ Regular Show (2009)
 Recess (1997)
 
 Rick and Morty (2013)
+
+#Rugrats (1991)
+
+Rugrats (2021)
 
 Scooby-Doo and Guess Who (2019)
 
@@ -245,6 +257,8 @@ Stranger Things (2016)
 Teen Titans (2003)
 
 The 13 Ghosts of Scooby-Doo (1985)
+
+The Adventures of Jimmy Neutron, Boy Genius (2002)
 
 The Amazing World of Gumball (2011)
 
