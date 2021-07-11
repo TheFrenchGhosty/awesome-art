@@ -322,6 +322,8 @@ Twin Peaks (1990)
 
 Utopia (2013)
 
+Vikings (2013)
+
 Vinyl (2016)
 
 Wakfu (2008)
