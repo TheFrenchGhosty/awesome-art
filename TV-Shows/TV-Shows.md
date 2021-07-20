@@ -118,6 +118,8 @@ Gravity Falls (2012)
 
 Great Barrier Reef with David Attenborough (2015)
 
+Harley Quinn (2019)
+
 How I Met Your Mother (2005)
 
 How the Universe Works (2010)
@@ -127,6 +129,8 @@ Human Universe (2014)
 Human Planet (2011)
 
 Initial D (1998)
+
+Invincible (2021)
 
 Japan - Earth's Enchanted Islands (2015)
 
@@ -140,6 +144,10 @@ Kitchen Nightmares (US) (2007)
 
 Les Aventures de Tintin (1991)
 
+Les Dalton (2010)
+
+Les Zinzins de l'espace (1997)
+
 Life (2009)
 
 Life After People (2009)
@@ -148,9 +156,13 @@ Life on Earth (1979)
 
 Lilo & Stitch - The Series (2003)
 
+Loki (2021)
+
 Looney Tunes (1929)
 
 Lost (2004)
+
+Love, Death and Robots (2019)
 
 Madagascar (2011)
 
@@ -164,7 +176,11 @@ MythBusters (2003)
 
 Neon Genesis Evangelion (1995)
 
+Onyx Equinox (2020)
+
 Our Planet (2019)
+
+Over the Garden Wall (2014)
 
 Parks and Recreation (2009)
 
@@ -177,6 +193,8 @@ Planet Earth II (2016)
 Prison Break (2005)
 
 Ramsay's Kitchen Nightmares (2004)
+
+Rantanplan (2006)
 
 Red Dwarf (1988)
 
@@ -284,6 +302,8 @@ The New Scooby-Doo Movies (1972)
 
 The Office (US) (2005)
 
+The Owl House (2020)
+
 The Pacific (2010)
 
 The Planets (2019)
@@ -327,6 +347,8 @@ Vikings (2013)
 Vinyl (2016)
 
 Wakfu (2008)
+
+WandaVision (2021)
 
 We Bare Bears (2015)
 
