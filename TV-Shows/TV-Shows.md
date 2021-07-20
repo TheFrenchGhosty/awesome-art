@@ -58,6 +58,8 @@ Civilisation (1969)
 
 Class (2016)
 
+Code Lyoko (2003)
+
 Cosmos (1980)
 
 Cosmos (2014)
@@ -102,6 +104,8 @@ Fargo (2014)
 
 Fear the Walking Dead (2015)
 
+Foot 2 Rue (2005)
+
 Forces of Nature with Brian Cox (2016)
 
 Friends (1994)
@@ -119,6 +123,8 @@ Gravity Falls (2012)
 Great Barrier Reef with David Attenborough (2015)
 
 Harley Quinn (2019)
+
+Hero Corp (2008)
 
 How I Met Your Mother (2005)
 
@@ -146,6 +152,8 @@ Les Aventures de Tintin (1991)
 
 Les Dalton (2010)
 
+Les Nouvelles Aventures de Lucky Luke (2002)
+
 Les Zinzins de l'espace (1997)
 
 Life (2009)
@@ -164,9 +172,17 @@ Lost (2004)
 
 Love, Death and Robots (2019)
 
+Lucky Luke (1984)
+
 Madagascar (2011)
 
 Malcolm in the Middle (2000)
+
+Marsupilami - Houba Houba Hop (2010)
+
+Marsupilami (2000)
+
+Mon ami Marsupilami (2003)
 
 Monk (2002)
 
@@ -175,6 +191,8 @@ Mr. Robot (2015)
 MythBusters (2003)
 
 Neon Genesis Evangelion (1995)
+
+Nos Voisins Les Marsupilamis (2012)
 
 Onyx Equinox (2020)
 
@@ -195,6 +213,8 @@ Prison Break (2005)
 Ramsay's Kitchen Nightmares (2004)
 
 Rantanplan (2006)
+
+Ratz (2003)
 
 Red Dwarf (1988)
 
@@ -332,6 +352,8 @@ The Wire (2002)
 
 Tiny Toon Adventures (1990)
 
+Titeuf (2001)
+
 Tom & Jerry (1940)
 
 Tom and Jerry Tales (2006)
@@ -357,3 +379,5 @@ Wonders of Life (2013)
 Wonders of the Solar System (2010)
 
 Wonders of the Universe (2011)
+
+Yakari (2005)
