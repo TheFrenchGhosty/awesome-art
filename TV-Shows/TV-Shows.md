@@ -10,6 +10,8 @@ Altered Carbon (2018)
 
 American Dad! (2005)
 
+Amphibia (2019)
+
 A Pup Named Scooby-Doo (1988)
 
 Archer (2009)
@@ -66,6 +68,8 @@ Cosmos (2014)
 
 Cowboy Bebop (1998)
 
+Crime Scene - The Vanishing at the Cecil Hotel (2021)
+
 Dark (2017)
 
 Darkwing Duck (1991)
@@ -97,6 +101,8 @@ Dragon Ball Super (2015)
 DuckTales (1987)
 
 DuckTales (2017)
+
+Famille Pirate (1999)
 
 Family Guy (1999)
 
@@ -355,6 +361,8 @@ Tiny Toon Adventures (1990)
 Titeuf (2001)
 
 Tom & Jerry (1940)
+
+Tom and Jerry in New York (2021)
 
 Tom and Jerry Tales (2006)
 
