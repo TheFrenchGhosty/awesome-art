@@ -12,6 +12,12 @@ American Dad! (2005)
 
 Amphibia (2019)
 
+Apocalypse - 2ème Guerre Mondiale (2009)
+
+Apocalypse - Hitler (2011)
+
+Apocalypse - Staline (2015)
+
 A Pup Named Scooby-Doo (1988)
 
 Archer (2009)
@@ -140,6 +146,10 @@ Human Universe (2014)
 
 Human Planet (2011)
 
+Il était une fois... les Découvreurs (1994)
+
+Il était une fois... l'Homme (1979)
+
 Initial D (1998)
 
 Invincible (2021)
@@ -207,6 +217,8 @@ Our Planet (2019)
 Over the Garden Wall (2014)
 
 Parks and Recreation (2009)
+
+PEN15 (2019)
 
 Phineas and Ferb (2007)
 
@@ -336,6 +348,8 @@ The Planets (2019)
 
 The Powerpuff Girls (1998)
 
+The Queen's Gambit (2020)
+
 The Sarah Jane Adventures (2007)
 
 The Scooby-Doo Show (1976)
@@ -369,6 +383,8 @@ Tom and Jerry Tales (2006)
 Torchwood (2006)
 
 Twin Peaks (1990)
+
+Un gars, une fille (1999)
 
 Utopia (2013)
 
