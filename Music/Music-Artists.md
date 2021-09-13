@@ -12,8 +12,6 @@
 
 A$AP Rocky
 
-aaaDownload
-
 AC_DC
 
 Alec Chambers
@@ -89,6 +87,8 @@ Bobby McFerrin
 Bob Marley & The Wailers
 
 Bomfunk MC's
+
+Bon Jovi
 
 Bonobo
 
@@ -222,11 +222,13 @@ Downlink
 
 Drake
 
-Dr.Dre
+Dr. Dre
 
-Dr.Ozi
+Dr. Ozi
 
 Eagles
+
+e-dubble
 
 Eh!de
 
@@ -247,6 +249,8 @@ Eptic
 Excision
 
 Faces
+
+Fame on Fire
 
 Fatal Bazooka
 
@@ -276,6 +280,8 @@ George Harrison
 
 Gerry Rafferty
 
+Ghostemane
+
 Ghostface Killah
 
 Gopnik McBlyat
@@ -295,6 +301,8 @@ Hard Bass School
 Harry Chapin
 
 Hatari
+
+Hatik
 
 Have a Nice Life
 
@@ -474,6 +482,8 @@ Nightcore
 
 Nine Inch Nails
 
+Ninho
+
 Nirvana
 
 Not My God
@@ -481,6 +491,8 @@ Not My God
 N.W.A
 
 Obie Trice
+
+Oliver Tree
 
 Omar LinX
 
@@ -501,6 +513,8 @@ Paul McCartney
 Pegboard Nerds
 
 Pendulum
+
+Pentakill
 
 Pete Rock
 
@@ -552,6 +566,8 @@ RK
 
 Rod Stewart
 
+romanov.dlb
+
 Rusko
 
 Russian Village Boys
@@ -577,6 +593,8 @@ Sister Nancy
 Skism
 
 Skylar Grey
+
+Smash Into Pieces
 
 Snoop Dogg
 
@@ -671,6 +689,8 @@ The Yardbirds
 Three Days Grace
 
 T.I.
+
+Tommy Cash
 
 Tove Lo
 
