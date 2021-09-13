@@ -302,8 +302,6 @@ Harry Chapin
 
 Hatari
 
-Hatik
-
 Have a Nice Life
 
 Hayce Lemsi
@@ -481,8 +479,6 @@ Netsky
 Nightcore
 
 Nine Inch Nails
-
-Ninho
 
 Nirvana
 
