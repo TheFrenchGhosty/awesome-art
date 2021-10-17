@@ -1,4 +1,5 @@
 - длб (dlb)
+- Одолжи Юность (odolji unost)
 - 100 gecs
 - 20Syl
 - 2Pac
@@ -181,6 +182,7 @@
 - Kacem Wapalek
 - Kahn
 - Kanye West
+- Kavinsky
 - Kendrick Lamar
 - Kery James
 - KIDS SEE GHOSTS
@@ -204,6 +206,7 @@
 - Ledé Markson
 - Led Zeppelin
 - Leo Rojas
+- Lera Lera
 - Life of Boris
 - Lil Wayne
 - Linkin Park
@@ -224,6 +227,7 @@
 - Martel (Dan Bury)
 - Massive Attack
 - Medico Peste
+- MEGTŰRTEK
 - Metallica
 - MF DOOM
 - Michael Jackson
