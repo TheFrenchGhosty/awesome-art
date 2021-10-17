@@ -30,6 +30,8 @@ Feel free to contribute if you know something that's worth adding.
 
 [Music Artists](Music/Music-Artists.md)
 
+[Music Artists (With Releases Not Available On Streaming Services)](Music/Music-Artists-No-Streaming.md)
+
 # Books:
 
 [Book Writers](Books/Book-Writers.md)
