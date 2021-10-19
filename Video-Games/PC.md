@@ -1,0 +1,443 @@
+- A Pixel Story
+- Age of Empires
+- Age of Wonders 3
+- American Conquest Game
+- Anno 1404
+- Anno 1701
+- Another World
+- Antichamber
+- Apotheon
+- Arcanum Of Steamworks And Magick Obscura
+- Ashes Of The Singularity Escalation
+- Assaul Android Cactus
+- Asterix XXL
+- Audiosurf
+- Audiosurf 2
+- Baldurs Gate 2 Enhanced Edition
+- Baldurs Gate Enhanced Edition
+- Banished
+- Batman A Telltale Game Series
+- Batman The Enemy Within The Telltale Series
+- Beat Hazard
+- Beat Hazard Ultra
+- Beatbuddy Tale Of The Guardians
+- Ben & Ed
+- Ben & Ed - Blood Party
+- Beyond Divinity
+- Beyond Good And Evil
+- BioShock
+- BioShock 2
+- BioShock Infinite
+- Blitz Breaker
+- Blitzkrieg
+- Blitzkrieg 2
+- Blitzkrieg 2 Fall Of The Reich
+- Blitzkrieg 2 Liberation
+- Blitzkrieg Burning Horizon Rolling Thunder
+- Blood Bowl 2
+- Botanicula
+- Braid
+- Broforce
+- Broken Sword 2 The Smoking Mirror
+- Broken Sword 3 The Sleeping Dragon
+- Broken Sword 4
+- Broken Sword 5 The Serpents Curse Episode 1
+- Broken Sword Directors Cut
+- Caesar
+- Caesar 2
+- Caesar 3
+- Caesar 4
+- Children of Morta
+- Convoy
+- Cossacks 2 Battle For Europe
+- Cossacks 2 Napoleonic Wars
+- Cossacks 3
+- Cossacks Art Of War
+- Cossacks Back To War
+- Cossacks European Wars
+- Crusader Kings 2
+- Crush Your Enemies
+- Crypt of the Necrodancer
+- Cuphead
+- Dark Souls
+- Dark Souls 2
+- Dark Souls 3
+- Darkest Dungeon
+- Darkest Hour A Hearts Of Iron Game
+- Day Of The Tentacle Remastered
+- Deus Ex
+- Deus Ex Invisible War
+- Dirt Rally
+- Dirt Rally 2.0
+- Dishonored
+- Dishonored - Death of the Outsider
+- Divine Divinity
+- Divinity 2 Developers Cut
+- Divinity Original Sin Enhanced Edition
+- Dont Starve
+- Door Kickers
+- Downwell
+- Dracula 2 The Last Sanctuary
+- Dracula 3 The Path Of The Dragon
+- Dracula 4 Game
+- Dracula 5 The Blood Legacy
+- Dracula The Resurrection
+- Dragon Age Origins
+- Dub Dash
+- Duke Nukem
+- Duke Nukem 2
+- Duke Nukem 3D Atomic Edition
+- Duke Nukem Manhattan Project
+- Dungeon Keeper
+- Dungeon Keeper 2
+- Dungeons 3
+- Dying Light The Following Enhanced Edition
+- Echo
+- Emperor Rise Of The Middle Kingdom
+- Empire Earth
+- Empire Earth 2
+- Empire Earth 3
+- Enter The Gungeon
+- Europa Universalis 3
+- Europa Universalis 4
+- Europa Universalis Rome
+- Evoland
+- Evoland 2
+- Expeditions Conquistador
+- Expeditions Viking
+- Extreme Exorcism
+- Factorio
+- Fallout - New Vegas
+- Fallout 2 Classic
+- Fallout 3
+- Fallout Classic
+- Fallout Tactics Classic
+- Far Cry 4
+- Faster Than Light
+- Fear 2 Project Origin Reborn
+- Fear Platinum
+- Feral Fury
+- Fez
+- For The Glory - A Europa Universalis Game
+- Frozen Synapse
+- Full Throttle Remastered
+- Furi
+- Gang Beasts
+- Grim Dawn
+- Grim Fandango Remastered
+- Guacamelee Super Turbo Championship Edition
+- Guardians Of The Galaxy
+- Hammerwatch
+- Hearts Of Iron 3
+- Hearts of Iron 4
+- Hellblade Senuas Sacrifice
+- Heritage Of Kings The Settlers
+- Heroes Of Annihilated Empires
+- Heroes Of Might And Magic
+- Heroes Of Might And Magic 2
+- Heroes Of Might And Magic 3
+- Heroes Of Might And Magic 4
+- Heroes Of Might And Magic V
+- Hollow Knight
+- Homeworld Deserts Of Kharak
+- Homeworld Emergence
+- Homeworld Remastered Collection
+- Hotline Miami
+- Hotline Miami 2 Wrong Number
+- House of the Dying Sun
+- Hyper Light Drifter
+- Icewind Dale 2
+- Icewind Dale Enhanced Edition
+- Immortal Redneck
+- Invisible Inc
+- Jade Empire Special Edition
+- Jagged Alliance
+- Jagged Alliance 2
+- Jagged Alliance 2 Unfinished Business
+- Jagged Alliance 2 Wildfire
+- Jagged Alliance Deadly Games
+- Just Cause 3
+- Just Shapes and Beats
+- Kalimba
+- Kenshi
+- Kerbal Space Program
+- Kings Quest
+- Kings Quest 2 Romancing The Throne
+- Kings Quest 3 To Heir Is Human
+- Kings Quest 4 The Perils Of Rosella
+- Kings Quest 5 Absence Makes The Heart Go Yonder
+- Kings Quest 6 Heir Today Gone Tomorrow
+- Kings Quest 7 The Princeless Bride
+- Kings Quest 8 Mask Of Eternity
+- Knights And Merchants The Peasants Rebellion
+- Lands Of Lore 3
+- Lands Of Lore Guardians Of Destiny
+- Lands Of Lore The Throne Of Chaos
+- Legend Of Grimrock
+- Legend Of Grimrock 2
+- Leisure Suit Larry 1 In The Land Of The Lounge Lizards
+- Leisure Suit Larry 2 Looking For Love In Several Wrong Places
+- Leisure Suit Larry 3 Passionate Patti In Pursuit Of The Pulsating Pectorals
+- Leisure Suit Larry 5 Passionate Patti Does A Little Undercover Work
+- Leisure Suit Larry 6 Shape Up Or Slip Out
+- Leisure Suit Larry Love For Sail
+- Leisure Suit Larry Magna Cum Laude Uncut And Uncensored
+- Leisure Suit Larry Reloaded
+- MXGP2
+- Machinarium
+- Mafia
+- Mark Of The Ninja
+- Mass Effect
+- Mass Effect - Andromeda
+- Mass Effect 2
+- Mass Effect 3
+- Max Payne
+- Max Payne 2
+- Max Payne 3
+- Melody's Escape
+- Metal Gear Solid V - Ground Zeroes
+- Metal Gear Solid V - The Phantom Pain
+- Middle-Earth - Shadow of Mordor
+- Middle-Earth - Shadow of War
+- Might And Magic 1 Book I
+- Might And Magic 2 Gates To Another World
+- Might And Magic 3 Isles Of Terra
+- Might And Magic 4-5 World Of Xeen
+- Might And Magic 6 The Mandate Of Heaven
+- Might And Magic 7 For Blood And Honor
+- Might And Magic 8 Day Of The Destroyer
+- Might And Magic 9
+- Might And Magic Swords Of Xeen
+- Mini Metro
+- Monkey Island 2 Special Edition Lechucks Revenge
+- Moonlighter
+- Mount Blade
+- Mount Blade Warband
+- Mount Blade With Fire Sword
+- Neon Drive
+- Neverwinter Nights
+- Neverwinter Nights 2 Complete
+- Noita
+- Northgard
+- Nuclear Throne
+- Obduction
+- Oddworld Abes Exoddus
+- Oddworld Abes Oddysee
+- Oddworld Munchs Oddysee
+- Oddworld New N Tasty
+- Oddworld Strangers Wrath
+- Offworld Trading Company
+- Ori And The Blind Forest Definitive Edition
+- Overgrowth
+- Overpass
+- Owlboy
+- Papers Please
+- Parkitect
+- Party Hard
+- Pharaoh Cleopatra
+- Pillars Of Eternity
+- Planescape Torment Enhanced Edition Game
+- Planetbase
+- Poly Bridge
+- Polynomial
+- Polynomial 2 - Universe of the Music
+- Project Cars
+- Project Cars 2
+- Project Highrise
+- Psychonauts
+- Puzzle Agent
+- Puzzle Agent 2
+- Quake 2 Quad Damage Game
+- Quake 3 Arena And Team Arena
+- Quake 4 Game
+- Quake The Offering Game
+- Quest For Glory 2
+- Quest For Glory 3
+- Quest For Glory 4
+- Quest For Glory 5
+- Quest For Glory Vga Remake
+- Railroad Tycoon 2
+- Railroad Tycoon 3
+- Rampage Knights
+- Rayman 2 The Great Escape
+- Rayman 3 Hoodlum Havoc
+- Rayman Forever
+- Rayman Origins
+- Rayman Raving Rabbids
+- Real Myst Masterpiece Edition
+- Realms Of Arkania 3
+- Realms Of Arkania Blade Of Destiny
+- Realms Of Arkania Star Trail
+- Reigns
+- Rez Infinite
+- Ride 2
+- Riff Racer
+- Riff Racer - Race Your Music
+- RimWorld
+- Rise of Nations
+- Riven The Sequel To Myst
+- Rogue Legacy
+- Rollercoaster Tycoon 2
+- Rollercoaster Tycoon 3
+- Rollercoaster Tycoon Deluxe
+- SEUM - Speedrunners from Hell
+- Sacred 2 Gold
+- Sacred Gold
+- Sam Max Beyond Time And Space
+- Sam Max Hit The Road
+- Sam Max Save The World
+- Sam Max The Devils Playhouse
+- Samorost 3
+- Samorost2
+- Scanner Sombre
+- Shadow Tactics Blades Of The Shogun
+- Shadow Warrior 2
+- Shadow Warrior 2013
+- Shadow Warrior Classic Redux
+- Shelter
+- Shelter 2
+- Shovel Knight
+- Shovel Knight Specter Of Torment
+- Sid Meier's Civilization 4
+- Sid Meier's Civilization 5
+- Sine Mora EX
+- Sins Of A Solar Empire Rebellion
+- Skyhill
+- Slain
+- Slime Rancher
+- Snakebird
+- Soma
+- Sonic Mania
+- Soundodger +
+- South Park - The Fractured But Whole
+- South Park - The Stick of Truth
+- Space Colony Hd
+- Space Quest 1 The Sarien Encounter
+- Space Quest 2 Vohauls Revenge
+- Space Quest 3 The Pirates Of Pestulon
+- Space Quest 4 Roger Wilco And The Time Rippers
+- Space Quest 5 The Next Mutation
+- Space Quest 6 Roger Wilco In The Spinal Frontier
+- Spectrum
+- Spelunky
+- Spin Rhythm
+- Spore Collection
+- Star Wars Knights Of The Old Republic
+- Star Wars Knights Of The Old Republic Ii The Sith Lords
+- StarCraft 2
+- Starbound
+- Steamworld Heist
+- Stellaris
+- Steredenn
+- Stronghold
+- Stronghold 2
+- Stronghold Crusader
+- Stronghold Crusader 2
+- Stronghold Legend
+- Styx - Masters of Shadows
+- Sudden Strike 4
+- Super Galaxy Squadron EX Turbo
+- Super Mutant Alien Assault
+- Super Star Path
+- System Shock 2
+- System Shock Classic
+- System Shock Enhanced
+- Tales Of Monkey Island
+- Tekken 7
+- The Banner Saga
+- The Banner Saga 2
+- The Binding of Isaac
+- The Binding of Isaac - Antibirth
+- The Bureau - XCOM Declassified
+- The Elder Scrolls 4 - Oblivion
+- The Elder Scrolls Arena
+- The Elder Scrolls Chapter Ii Daggerfall
+- The Elder Scrolls Iii Morrowind Goty Edition Game
+- The Elder Scrolls V - Skyrim
+- The Elder Scrolls V - Skyrim Special Edition
+- The Escapists
+- The Escapists - The Walking Dead
+- The Guild 2
+- The Guild 2 Pirates Of The European Seas
+- The Guild 2 Renaissance
+- The Guild Gold Edition
+- The Long Dark
+- The Masterplan
+- The Secret Of Monkey Island Special Edition
+- The Settlers 2 10Th Anniversary
+- The Settlers 3 Ultimate Collection
+- The Settlers 4 Gold Edition
+- The Settlers Rise Of An Empire Gold Edition
+- The Swapper
+- The Talos Principle
+- The Walking Dead Michonne A Telltale Miniseries
+- The Walking Dead Season 1
+- The Walking Dead Season 2
+- The Witcher
+- The Witcher 2
+- The Witcher 3 Wild Hunt Game Of The Year Edition Game
+- The Witness
+- Theme Hospital
+- This War Of Mine
+- Thumper
+- Thumper
+- Titan Quest Anniversary Edition
+- Titan Souls
+- Tomb Raider 1
+- Tomb Raider 2
+- Tomb Raider 3
+- Tomb Raider Chronicles1
+- Tomb Raider The Angel Of Darkness
+- Tomb Raider The Last Revelation
+- Torment Tides Of Numenera
+- Total Anihilation Commander Pack
+- Total Annihilation Kingdoms
+- Total War - Attila
+- Total War - Empire
+- Total War - Medieval 2
+- Total War - Napoleon
+- Total War - Rome
+- Total War - Rome 2
+- Total War - Shogun 2
+- Total War - Warhammer II
+- Towerfall Ascension
+- Tricone Lab
+- Trine 2 Complete Story
+- Trine 3 The Artifacts Of Power
+- Trine Enchanted Edition
+- Tropico 3 Gold Edition
+- Tropico 4
+- Tropico 5
+- Tyranny Game
+- Ultima 1
+- Ultima 2
+- Ultima 3
+- Ultima 4
+- Ultima 5
+- Ultima 6
+- Ultima 7 Serpent Isle
+- Ultima 7 The Black Gate The Forge Of Virtue
+- Ultima 8 Gold Edition
+- Ultima 9 Ascension
+- Ultima Underworld 1
+- Ultima Underworld 2
+- Ultima Worlds Of Adventure 2 Martian Dreams
+- Undertale
+- Universe Sandbox²
+- Unreal 2 The Awakening Se
+- Unreal Gold
+- Victoria 2
+- War For The Overworld
+- Wasteland 2 Directors Cut
+- Wasteland The Classic Original
+- What Remains of Edith Finch
+- Witcher Adventure Game
+- Wolf Among Us The
+- World Of Goo
+- Worlds Of Ultima The Savage Empire
+- X Rebirth
+- XCOM - Enemy Unknown
+- XCOM 2
+- YANKAI'S TRIANGLE
+- Zeus Poseidon
+- Zoo Tycoon

@@ -44,11 +44,11 @@ Manga: SOON
 
 # Video Games:
 
-Video Games: SOON
-
-Indie Studio: SOON
+[PC](Video-Games/PC.md)
 
 [Arcade](Video-Games/Arcade.md)
+
+Indie Studio: SOON
 
 ---
 
