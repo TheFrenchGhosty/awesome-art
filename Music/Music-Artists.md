@@ -7,7 +7,7 @@
 - 8Ball
 - A$AP Rocky
 - ACDC
-- Alec Chambers
+- Alan Aztec
 - Alestorm
 - Alkpote
 - Al'Tarba
@@ -17,12 +17,11 @@
 - Anton Serra
 - Aphex Twin
 - Arkasia
+- Artie Shaw
 - Asocial Club
 - Astrix
 - A Tribe Called Quest
-- Ava Max
 - AZ
-- Babalos
 - Bad Meets Evil
 - Barely Alive
 - Barry McGuire
@@ -32,11 +31,14 @@
 - Beats Antique
 - Bee Gees
 - Benga
+- Benny Goodman
 - Big Boi
 - Big Daddy Kane
 - Big L
 - Big Pun
+- Billie Holiday
 - Billy Woods
+- Birocratic
 - Black Thought
 - Blockhead
 - Blonde Redhead
@@ -44,14 +46,10 @@
 - Bobby McFerrin
 - Bob Marley & The Wailers
 - Bomfunk MC's
-- Bon Jovi
 - Bonobo
 - Borgore
 - Botanist
 - BROCKHAMPTON
-- Brothers of Metal
-- Bruno Pelletier
-- Bryce Fox
 - Buffalo Springfield
 - Bun B
 - Burial
@@ -66,6 +64,7 @@
 - C+C Music Factory
 - Chat Pile
 - Chill Bump
+- Chillhop Music
 - Chinese Man
 - Chipzel
 - Chuck Berry
@@ -74,6 +73,7 @@
 - Clozee
 - Common
 - Cookie Monsta
+- Count Basie
 - Country Joe & The Fish
 - Cream
 - Creedence Clearwater Revival
@@ -82,26 +82,27 @@
 - D12
 - DaBaby
 - Daft Punk
-- Damso
 - DangerDoom
 - Danny Brown
+- Dany Dan
 - Datsik
 - Da Tweekaz
 - Dave Matthews Band
 - David Bowie
 - Davodka
 - Deadmau5
+- Dean Martin
 - Death Grips
 - Degiheugi
 - Del the Funky Homosapien
 - Deluxe
-- Dennis Lloyd
 - Depeche Mode
 - Devaloop
 - Die Antwoord
 - Diplo
 - DJ Blyatman
 - DJ Oguretz
+- DJ Paul Elstak
 - DJ Pelix
 - DMX
 - doctor P
@@ -124,7 +125,6 @@
 - Eptic
 - Excision
 - Faces
-- Fame on Fire
 - Fatal Bazooka
 - Faun
 - FAUVE
@@ -138,15 +138,14 @@
 - Freeze Corleone
 - Future Islands
 - Ganja White Night
+- Gene Krupa
 - GeoDaSilva
 - George Harrison
 - Gerry Rafferty
-- Ghostemane
 - Ghostface Killah
 - Gopnik McBlyat
 - Gorillaz
 - Grand Funk Railroad
-- GREEN ORXNGE
 - Gringe
 - Guns N' Roses
 - Gza
@@ -156,6 +155,7 @@
 - Have a Nice Life
 - Hbkn
 - Headhunterz
+- Helen Forrest
 - Hint
 - Hippie Sabotage
 - Hocus Pocus
@@ -167,7 +167,6 @@
 - Ilénazz
 - Ill-Esha
 - Infected Mushroom
-- Ivan Bede
 - Jackson 5
 - Jack Ü
 - Jay-Z
@@ -205,9 +204,9 @@
 - Le chroniqueur sale
 - Ledé Markson
 - Led Zeppelin
-- Leo Rojas
 - Lera Lera
 - Life of Boris
+- Lil Nas X
 - Lil Wayne
 - Linkin Park
 - Little Big
@@ -225,28 +224,28 @@
 - Mala
 - Man's'co
 - Martel (Dan Bury)
+- Marty Robbins
 - Massive Attack
 - Medico Peste
 - MEGTŰRTEK
 - Metallica
 - MF DOOM
 - Michael Jackson
-- Mister V
 - Mobb Deep
 - Moderator
-- Moha La Squale
 - Monstercat
-- Monstercat Call of the Wild
 - Mos Def
 - Moss of Aura
 - Mt Eden
 - MUST DIE!
+- Nanahira
 - Nancy Sinatra
 - Nas
 - Nehruviandoom
 - Nekfeu
 - Nero
 - Netsky
+- Nick Sax
 - Nightcore
 - Nine Inch Nails
 - Nirvana
@@ -263,8 +262,8 @@
 - Paage
 - Paul McCartney
 - Pegboard Nerds
+- Peggy Lee
 - Pendulum
-- Pentakill
 - Perturbator
 - Pete Rock
 - Pharoahe Monch
@@ -276,7 +275,6 @@
 - Prince
 - Prodigy
 - ProtoHype
-- PRXSXNT FXTURE
 - Pusha T
 - Q-Tip
 - Queen
@@ -289,16 +287,14 @@
 - Red Hot Chili Peppers
 - Redman
 - Reta
-- RHODAMINE
 - Ringo Starr
-- Riot
-- RK
 - Rod Stewart
 - romanov.dlb
 - Rusko
 - Russian Village Boys
 - Russ Liquid
 - Sabaton
+- Sammy Davis Jr
 - Savant
 - Scarface
 - Senbeï
@@ -307,11 +303,11 @@
 - Simon & Garfunkel
 - Sister Nancy
 - Skism
-- Skylar Grey
 - Slugabed
 - Smash Into Pieces
 - Snoop Dogg
 - Spag Heddy
+- SrpskiBass
 - Steppenwolf
 - Stevie Wonder
 - STUPEFLIP
@@ -374,7 +370,6 @@
 - Virtual Riot
 - Virus
 - Virus Syndicate
-- WEEDMANE
 - Wiz Khalifa
 - Wu-Tang Clan
 - X-Men
