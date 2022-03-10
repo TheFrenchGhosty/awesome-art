@@ -1,10 +1,12 @@
 - Al'Tarba
 - apartje
 - A State of Sugar
+- Birocratic
 - ｂｏｄｙｌｉｎｅ
 - Castanets
 - channel select
 - Cosmowave
+- Dankmus
 - Degiheugi
 - DJ NECOJITA
 - Dr. Dre
@@ -19,6 +21,8 @@
 - Mala
 - Moth Equals
 - MT Eden
+- Peggy Lee
 - The Alchemist
 - The Geek x Vrv
+- Vald
 - Zeds dead
