@@ -1,21 +1,26 @@
-Aldous Huxley
-
-Douglas Adams
-
-Dr. Seuss
-
-Franz Kafka
-
-George Orwell
-
-H. G. Wells
-
-Haruki Murakami
-
-Jean-Paul Sartre
-
-Ray Bradbury
-
-Stephen King
-
-Yukio Mishima
+- Aldous Huxley
+- Alexandre Dumas
+- Arthur C. Clarke
+- Arthur Conan Doyle
+- Douglas Adams
+- Dr. Seuss
+- Frank Herbert
+- Franz Kafka
+- George Orwell
+- Haruki Murakami
+- H.G. Wells
+- H.P. Lovecraft
+- Isaac Asimov
+- Jean-Paul Sartre
+- John Steinbeck
+- J.R.R. Tolkien
+- Jules Verne
+- Ken Follett
+- Lewis Carroll
+- Philip K. Dick
+- Ray Bradbury
+- Robert Louis Stevenson
+- Stephen King
+- Stephen King
+- Victor Hugo
+- Yukio Mishima
