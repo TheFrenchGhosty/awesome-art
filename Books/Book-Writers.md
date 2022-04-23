@@ -1,11 +1,15 @@
+- Agatha Christie	
 - Aldous Huxley
 - Alexandre Dumas
 - Arthur C. Clarke
 - Arthur Conan Doyle
 - Douglas Adams
 - Dr. Seuss
+- Edgar Allan Poe
 - Frank Herbert
 - Franz Kafka
+- Fyodor Dostoevsky
+- Gaston Leroux
 - George Orwell
 - Haruki Murakami
 - H.G. Wells
