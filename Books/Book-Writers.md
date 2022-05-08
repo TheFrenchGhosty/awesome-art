@@ -25,6 +25,5 @@
 - Ray Bradbury
 - Robert Louis Stevenson
 - Stephen King
-- Stephen King
 - Victor Hugo
 - Yukio Mishima
