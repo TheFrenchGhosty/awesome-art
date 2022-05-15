@@ -1,4 +1,4 @@
-- длб (dlb)
+- длб (DLB)
 - Одолжи Юность (odolji unost)
 - 100 gecs
 - 20Syl
@@ -114,6 +114,7 @@
 - Dr. Dre
 - Dr. Ozi
 - Eagles
+- Eddy Woogy
 - e-dubble
 - Eh!de
 - El-P
@@ -121,6 +122,7 @@
 - Elvis Presley
 - Eminem
 - ENiGMA Dubz
+- Epic Rap Battles of History
 - Epoch
 - Eptic
 - Excision
@@ -128,6 +130,7 @@
 - Fatal Bazooka
 - Faun
 - FAUVE
+- Fayçal
 - Flux Pavilion
 - FM-84
 - Foamplate
@@ -265,6 +268,7 @@
 - Peggy Lee
 - Pendulum
 - Perturbator
+- Pete & Bas
 - Pete Rock
 - Pharoahe Monch
 - Pink Floyd
@@ -288,6 +292,7 @@
 - Redman
 - Reta
 - Ringo Starr
+- Robse
 - Rod Stewart
 - romanov.dlb
 - Rusko
@@ -356,7 +361,7 @@
 - T.I.
 - Tommy Cash
 - Tove Lo
-- Trust
+- TRUST
 - TSR Crew
 - Twista
 - Two Feet
