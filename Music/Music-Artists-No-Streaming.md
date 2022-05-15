@@ -1,4 +1,5 @@
 - Al'Tarba
+- Anton Serra
 - apartje
 - A State of Sugar
 - Birocratic
@@ -13,7 +14,6 @@
 - Eminem
 - Epoch
 - EPSON
-- EPSON and channel select
 - Fortune 600
 - Grimbeard
 - Lobsta B
@@ -21,6 +21,7 @@
 - Mala
 - Moth Equals
 - MT Eden
+- Nero
 - Peggy Lee
 - The Alchemist
 - The Geek x Vrv
