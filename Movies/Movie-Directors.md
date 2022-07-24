@@ -260,6 +260,8 @@ Wes Craven
 
 William Friedkin
 
+Wolfgang Petersen
+
 Wong Kar-wai
 
 Woody Allen
