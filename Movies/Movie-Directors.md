@@ -140,6 +140,8 @@ John McTiernan
 
 John Woo
 
+Jordan Peele
+
 Juan Antonio Bayona
 
 [Kim Jee-woon](https://en.wikipedia.org/wiki/Kim_Jee-woon#Feature_film)
@@ -243,6 +245,8 @@ Takeshi Kitano
 Terrence Malick
 
 [Terry Gilliam](https://en.wikipedia.org/wiki/Terry_Gilliam_filmography#Films)
+
+[The Daniels](https://en.wikipedia.org/wiki/Daniels_(directors)#Feature_films)
 
 [The Wachowskis](https://en.wikipedia.org/wiki/The_Wachowskis#Films)
 
