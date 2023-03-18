@@ -7,7 +7,7 @@
 - Alexander Payne
 - Alexandre Astier
 - Alfred Hitchcock
-- Adrei Tarkovsky
+- Andrei Tarkovsky
 - André Hunebelle
 - Ang Lee
 - Arthur Penn
