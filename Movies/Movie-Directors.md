@@ -212,11 +212,15 @@ Roland Emmerich
 
 Roman Polanski
 
+S. S. Rajamouli
+
 Sam Mendes
 
 [Sam Raimi](https://en.wikipedia.org/wiki/Sam_Raimi#Film_2)
 
 Satoshi Kon
+
+Satyajit Ray
 
 Sergei Eisenstein
 
