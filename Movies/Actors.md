@@ -1,9 +1,6 @@
-André "Bourvil" Bourvil
-
-Fernand "Fernandel" Contandin
-
-Jean Gabin
-
-Jim Carrey
-
-Louis de Funès
+- André "Bourvil" Bourvil
+- Fernand "Fernandel" Contandin
+- Jean Gabin
+- Jim Carrey
+- Lino Ventura
+- Louis de Funès
