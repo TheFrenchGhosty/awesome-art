@@ -1,7 +1,5 @@
 - Akira Kurosawa
 - Alain Resnais
-- [Albert Dupontel](https://en.wikipedia.org/wiki/Albert_Dupontel#As_filmmaker)
-- [Alejandro González Iñárritu](https://en.wikipedia.org/wiki/Alejandro_Gonz%C3%A1lez_I%C3%B1%C3%A1rritu#Filmography)
 - Alejandro Jodorowsky
 - Alex Proyas
 - Alexander Payne
@@ -12,43 +10,42 @@
 - Ang Lee
 - Arthur Penn
 - Ben Stiller
-- [Bong Joon-ho](https://en.wikipedia.org/wiki/Bong_Joon-ho#Feature_films)
 - Brian De Palma
 - Bryan Singer
 - Buster Keaton
 - Chris Columbus
-- [Christopher Nolan](https://en.wikipedia.org/wiki/Christopher_Nolan_filmography#Films)
 - Claude Autant-Lara
 - Claude Zidi
 - Clint Eastwood
 - Coen Brothers
 - Danny Boyle
-- Darren Aronofsky
 - Dario Argento
+- Darren Aronofsky
 - David Cronenberg
 - David Fincher
 - David Lean
 - David Lynch
 - Denis Villeneuve
+- Denys de La Patellière
 - Don Bluth
-- [Edgar Wright](https://en.wikipedia.org/wiki/Edgar_Wright#Film)
 - Enki Bilal
 - Francis Ford Coppola
 - Frank Darabont
-- Fritz Lang
 - François Truffaut
+- Fritz Lang
 - Gareth Edwards
 - Gaspar Noé
 - George A. Romero
 - George Lucas
 - George Miller
+- Georges Lautner
 - Georges Méliès
-- Gérard Oury
 - Gregg Araki
 - Guillermo Del Toro
 - Gus Van Sant
-- [Guy Ritchie](https://en.wikipedia.org/wiki/Guy_Ritchie#Film)
+- Gérard Oury
 - Hayao Miyazaki
+- Henri Verneuil
 - Henri-Georges Clouzot
 - Hideo Nakata
 - Hirokazu Kore-eda
@@ -62,6 +59,7 @@
 - Jean Girault
 - Jean-Luc Godard
 - Jean-Pierre Jeunet
+- Jean-Pierre Melville
 - Jeff Nichols
 - Joann Sfar
 - Joe Dante
@@ -71,7 +69,6 @@
 - John Woo
 - Jordan Peele
 - Juan Antonio Bayona
-- [Kim Jee-woon](https://en.wikipedia.org/wiki/Kim_Jee-woon#Feature_film)
 - Kim Ki-duk
 - Kinji Fukasaku
 - Lars von Trier
@@ -91,23 +88,19 @@
 - Oliver Stone
 - Orson Welles
 - Paolo Sorrentino
-- [Park Chan-wook](https://en.wikipedia.org/wiki/Park_Chan-wook#Films)
 - Paul Thomas Anderson
 - Paul Verhoeven
 - Peter Jackson
 - Peter Watkins
 - Quentin Dupieux
-- [Quentin Tarantino](https://en.wikipedia.org/wiki/Quentin_Tarantino_filmography#Film)
 - Richard Donner
 - Ridley Scott
 - Ringo Lam
 - Robert Rodriguez
-- [Robert Zemeckis](https://en.wikipedia.org/wiki/Robert_Zemeckis#Film)
 - Roland Emmerich
 - Roman Polanski
 - S. S. Rajamouli
 - Sam Mendes
-- [Sam Raimi](https://en.wikipedia.org/wiki/Sam_Raimi#Film_2)
 - Satoshi Kon
 - Satyajit Ray
 - Sergei Eisenstein
@@ -123,14 +116,10 @@
 - Takashi Miike
 - Takeshi Kitano
 - Terrence Malick
-- [Terry Gilliam](https://en.wikipedia.org/wiki/Terry_Gilliam_filmography#Films)
-- [The Daniels](https://en.wikipedia.org/wiki/Daniels_(directors)#Feature_films)
-- [The Wachowskis](https://en.wikipedia.org/wiki/The_Wachowskis#Films)
 - Tim Burton
 - Tod Browning
 - Toshiya Fujita
 - Tsui Hark
-- [Wes Anderson](https://en.wikipedia.org/wiki/Wes_Anderson#Feature_films)
 - Wes Craven
 - William Friedkin
 - Wolfgang Petersen
@@ -140,3 +129,18 @@
 - Yeon Sang-ho
 - Yuri Norstein
 - Yves Boisset
+- [Albert Dupontel](https://en.wikipedia.org/wiki/Albert_Dupontel#As_filmmaker)
+- [Alejandro González Iñárritu](https://en.wikipedia.org/wiki/Alejandro_Gonz%C3%A1lez_I%C3%B1%C3%A1rritu#Filmography)
+- [Bong Joon-ho](https://en.wikipedia.org/wiki/Bong_Joon-ho#Feature_films)
+- [Christopher Nolan](https://en.wikipedia.org/wiki/Christopher_Nolan_filmography#Films)
+- [Edgar Wright](https://en.wikipedia.org/wiki/Edgar_Wright#Film)
+- [Guy Ritchie](https://en.wikipedia.org/wiki/Guy_Ritchie#Film)
+- [Kim Jee-woon](https://en.wikipedia.org/wiki/Kim_Jee-woon#Feature_film)
+- [Park Chan-wook](https://en.wikipedia.org/wiki/Park_Chan-wook#Films)
+- [Quentin Tarantino](https://en.wikipedia.org/wiki/Quentin_Tarantino_filmography#Film)
+- [Robert Zemeckis](https://en.wikipedia.org/wiki/Robert_Zemeckis#Film)
+- [Sam Raimi](https://en.wikipedia.org/wiki/Sam_Raimi#Film_2)
+- [Terry Gilliam](https://en.wikipedia.org/wiki/Terry_Gilliam_filmography#Films)
+- [The Daniels](https://en.wikipedia.org/wiki/Daniels_(directors)#Feature_films)
+- [The Wachowskis](https://en.wikipedia.org/wiki/The_Wachowskis#Films)
+- [Wes Anderson](https://en.wikipedia.org/wiki/Wes_Anderson#Feature_films)
