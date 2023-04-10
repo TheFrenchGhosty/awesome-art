@@ -5,7 +5,7 @@ This list is the most complete of Awesome-Art for the simple fast that this is t
 It is also a genre that is dead (the last great one came out in 2018: "Insurgency - Sandstorm").
 
 
-Note: Games that are "hybrid" with shooter as a "subgenre" aren't in this list, eg: "Borderlands", because the shooting part is the main part, but "Resident Evil 4" isn't included because it's an horror game first.
+Note: Games that are "hybrid" with shooter as a "subgenre" aren't in this list, eg: "Borderlands" is included because the shooting part is the main part, but "Resident Evil 4" isn't included because it's an horror game first.
 
 DLCs/extensions are considered part of the game.
 
