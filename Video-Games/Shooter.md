@@ -1,7 +1,8 @@
 # Awesome-Art - Shooters (FPS and TPS - Multiplayer and Singleplayer)
 
-This list is the most complete of Awesome-Art for the simple that this is the genre of video games I play/played the most.
-It is also a genre that is basically dead (the last great one came out in 2018: "Insurgency - Sandstorm").
+This list is the most complete of Awesome-Art for the simple fast that this is the genre of video games I (TheFrenchGhosty) play/played the most.
+
+It is also a genre that is dead (the last great one came out in 2018: "Insurgency - Sandstorm").
 
 
 Note: Games that are "hybrid" with shooter as a "subgenre" aren't in this list, eg: "Borderlands", because the shooting part is the main part, but "Resident Evil 4" isn't included because it's an horror game first.
@@ -46,6 +47,15 @@ DLCs/extensions are considered part of the game.
 - Star Wars - Battlefront 2 (2005)
 - Star Wars - Battlefront 2 (2017)
 - Tom Clancy's Rainbow Six Siege (filled with cheaters, awful netcode, awful player-base, really unfair/unbalanced because of the need of strong team-play between players of the same skill level)
+- Xonotic
+- Quake 1
+- Quake 2
+- Quake 3 - Arena
+- Quake 4
+- Quake Live
+- Unreal (series)
+
+
 
 
 ## Pure simulators:
@@ -83,6 +93,12 @@ DLCs/extensions are considered part of the game.
 - Doom 2 - Hell on Earth (1993) (mods recommended)
 - Final Doom (mods recommended)
 - Duke Nukem 3D (mods recommended, see [my wiki](https://wiki.thefrenchghosty.me/gaming/video-game-mods/#duke-nukem-3d))
+- Quake 1
+- Quake 2
+- Quake 3 - Arena
+- Quake 4
+- Quake Live
+- Unreal (series)
 
 
 ## Third Person Shooter (TPS)
