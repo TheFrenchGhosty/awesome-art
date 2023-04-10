@@ -48,14 +48,13 @@ DLCs/extensions are considered part of the game.
 - Star Wars - Battlefront 2 (2017)
 - Tom Clancy's Rainbow Six Siege (filled with cheaters, awful netcode, awful player-base, really unfair/unbalanced because of the need of strong team-play between players of the same skill level)
 - Xonotic
+- ET - Legacy (FOSS continuation of "Wolfenstein - Enemy Territory")
 - Quake 1
 - Quake 2
 - Quake 3 - Arena
 - Quake 4
 - Quake Live
 - Unreal (series)
-
-
 
 
 ## Pure simulators:
