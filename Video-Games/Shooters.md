@@ -66,6 +66,7 @@ DLCs/extensions are considered part of the game.
 - Project Reality (Battlefield 2 mod)
 - Squad (a commercial game made by the team behind "Project Reality")
 - Escape from Tarkov (filled with cheaters, really unfair/unbalanced, really grindy)
+- Hell Let Loose
 
 ---
 
@@ -90,6 +91,14 @@ DLCs/extensions are considered part of the game.
 - Wolfenstein (series)
 - Metro (series)
 - Superhot (series)
+- Shadow Warrior (series)
+- Serious Sam (series)
+- Turok (series)
+- DUSK
+- POSTAL - Brain Damaged
+- AMID EVIL
+- ULTRAKILL
+- Gloomwood
 - Doom (1993) (mods recommended)
 - Doom 2 - Hell on Earth (1993) (mods recommended)
 - Final Doom (mods recommended)
