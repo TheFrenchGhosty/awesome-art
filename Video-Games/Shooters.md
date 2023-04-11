@@ -99,6 +99,7 @@ DLCs/extensions are considered part of the game.
 - AMID EVIL
 - ULTRAKILL
 - Gloomwood
+- Heretic (series)
 - Doom (1993) (mods recommended)
 - Doom 2 - Hell on Earth (1993) (mods recommended)
 - Final Doom (mods recommended)
