@@ -94,6 +94,10 @@ DLCs/extensions are considered part of the game.
 - Shadow Warrior (series)
 - Serious Sam (series)
 - Turok (series)
+- PowerSlave / Exhumed (series)
+- Blood (series)
+- Redneck Rampage (series)
+- Rise of the Triad - Dark War
 - DUSK
 - POSTAL - Brain Damaged
 - AMID EVIL
