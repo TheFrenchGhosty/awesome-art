@@ -20,7 +20,8 @@ DLCs/extensions are considered part of the game.
 - Rising Storm 2 - Vietman (Vietnam war)
 - Battlefield 3 (Modern era)
 - Battlefield 4 (Modern era)
-- Rising Storm 1 (WW2 war)
+- Rising Storm 1 (WW2)
+- Killing Floor 2 (Zombies)
 
 
 ## Multiplayer - Full list:
@@ -46,6 +47,7 @@ DLCs/extensions are considered part of the game.
 - Counter Strike - Global Offensive
 - Star Wars - Battlefront 2 (2005)
 - Star Wars - Battlefront 2 (2017)
+- Killing Floor (series)
 - Tom Clancy's Rainbow Six Siege (filled with cheaters, awful netcode, awful player-base, really unfair/unbalanced because of the need of strong team-play between players of the same skill level)
 - Xonotic
 - ET - Legacy (FOSS continuation of "Wolfenstein - Enemy Territory")
